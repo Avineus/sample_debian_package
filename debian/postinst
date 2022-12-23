@@ -1,0 +1,4 @@
+echo "Installed sample binaries"
+
+ls -l /usr/bin/sample.exe
+ls -l /usr/lib/sample.so

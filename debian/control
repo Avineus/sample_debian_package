@@ -1,0 +1,11 @@
+Source: sample-debian-pkg
+Section: unknown
+Priority: optional
+Maintainer: Avineus <antony.rheneus@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+
+Package: sample-debian-pkg
+Architecture: amd64
+Depends: ${misc:Depends}
+Description: sample debian packaging example

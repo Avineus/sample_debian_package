@@ -1,0 +1,5 @@
+sample-debian-pkg (1.0) unstable; urgency=low
+
+  * Add sample exe and so
+
+ -- avineus <antony.rheneusr@gmail.com>  Tue, 20 Dec 2022 23:19:26 -0800
