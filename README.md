@@ -36,7 +36,7 @@ The output of debian build will at immediate parent dir
 
 
 Some dpkg commands
-
+```
 *$ dpkg -c ../sample-debian-pkg_1.0_amd64.deb 
 >drwxr-xr-x root/root         0 2022-12-20 23:19 ./
 >drwxr-xr-x root/root         0 2022-12-20 23:19 ./usr/
@@ -106,4 +106,4 @@ $ tar tvJf data.tar.xz
 >drwxr-xr-x root/root         0 2022-12-20 23:19 ./usr/share/doc/
 >drwxr-xr-x root/root         0 2022-12-20 23:19 ./usr/share/doc/sample-debian-pkg/
 >-rw-r--r-- root/root       147 2022-12-20 23:19 ./usr/share/doc/sample-debian-pkg/changelog.gz
->
+```
